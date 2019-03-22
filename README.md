@@ -1,0 +1,11 @@
+# Tareas
+- [ ] Instalar micrófono
+- [ ] Instalar programa de reconocimiento
+- [ ] Introducir comandos de prueba
+- [ ] Establecer enlace LoRa
+- [ ] [Opcional] Sofia2
+- [ ] Estudio de viabilidad
+- [ ] Documentación
+- [ ] Vídeo de 2 minutos
+- [ ] Diseño de material gráfico
+- [ ] Presentación de 3 minutos
